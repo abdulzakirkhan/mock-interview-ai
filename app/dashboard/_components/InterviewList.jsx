@@ -11,11 +11,12 @@ import { Swiper, SwiperSlide } from 'swiper/react';
 import 'swiper/css'; // Base styles
 import 'swiper/css/pagination'; // Pagination styles
 import 'swiper/css/navigation'; // Navigation styles
+import { useTheme } from "@/app/context/ThemeContext";
 
 const InterviewList = () => {
   const { user } = useUser();
   const [InterviewList, setInterviewList] = useState([]);
-
+const {theme,toggleTheme} =useTheme()
   useEffect(() => {
     user && GetInterviewList();
   }, [user,InterviewList]);
@@ -35,7 +36,7 @@ const InterviewList = () => {
   return (
     <div className="w-full md:col-span-12">
 
-      <h2 className="font-medium text-xl dark:text-white">Previous Mock Interview</h2>
+      <h2 className="font-medium text-xl dark:text-white">PreviousPREP AI</h2>
 
       {/* Conditionally render the content */}
       {InterviewList.length > 0 ? (
@@ -72,7 +73,7 @@ const InterviewList = () => {
         )
       ) : (
         // If there are no interviews available, show this message
-        <p className="text-white">No interviews available.</p>
+        <p className={`${theme === "dark" ? "text-white" : "text-black"}`}>No interviews available.</p>
       )}
     </div>
   );

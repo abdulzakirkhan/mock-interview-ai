@@ -136,7 +136,7 @@ const Footer = () => {
           >
             <div className={`flex items-center justify-center text-sm ${theme === "dark" ? "text-gray-400" : "text-black"}`}>
               <CopyrightIcon className="mr-2 h-5 w-5" />
-              <span>{new Date().getFullYear()} Mock Interview Platform. All Rights Reserved.</span>
+              <span>{new Date().getFullYear()}PREP AI Platform. All Rights Reserved.</span>
             </div>
           </motion.div>
         </div>

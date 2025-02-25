@@ -22,7 +22,7 @@ const HowItWorksPage = () => {
     },
     {
       icon: <Play size={48} className="text-[#10B981]" />,
-      title: "Start the Mock Interview",
+      title: "Start the PREP AI",
       description: "Our AI generates dynamic, contextually relevant questions powered by Gemini. One question at a time keeps you focused and engaged."
     },
     {
@@ -38,7 +38,7 @@ const HowItWorksPage = () => {
     {
       icon: <Repeat size={48} className="text-[#10B981]" />,
       title: "Continue Practicing",
-      description: "Access your interview history, track progress, and keep refining your skills with unlimited mock interviews and adaptive challenges."
+      description: "Access your interview history, track progress, and keep refining your skills with unlimitedPREP AIs and adaptive challenges."
     }
   ];
 
@@ -115,7 +115,7 @@ const HowItWorksPage = () => {
               className={`text-4xl flex w-1/2 items-center text-center gap-6 md:text-5xl font-bold ${theme === "dark" ?"text-white" :"text-[#10B981]"} mb-4`}
             >
               <Image src={"/artificial-intelligence.png"} width={50} height={40} alt="" />
-              Mock Interview AI
+             PREP AI
             </motion.h1>
           </div>
           <motion.p
@@ -175,7 +175,7 @@ const HowItWorksPage = () => {
       
       <div className="container mx-auto px-7 pb-16">
         <div className="mt-20 text-center text-gray-50">
-          <h2 className={`text-3xl font-bold ${theme === "dark" ? "text-white" : ""} mb-6`}>Why Choose Mock Interview AI?</h2>
+          <h2 className={`text-3xl font-bold ${theme === "dark" ? "text-white" : ""} mb-6`}>Why ChoosePREP AI?</h2>
           <div className="grid md:grid-cols-3 gap-8">
             {/* {addvantages.map((card,index) => (
 

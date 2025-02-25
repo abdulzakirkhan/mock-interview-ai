@@ -19,7 +19,7 @@ export default function ResourcesPage() {
   const faqs = [
     { question: "How does it work?", answer: "Our AI-powered system helps you prepare for interviews with personalized feedback." },
     { question: "Is it free?", answer: "We offer both free and premium plans to suit different needs." },
-    { question: "Can I practice multiple times?", answer: "Yes! You can take unlimited mock interviews." },
+    { question: "Can I practice multiple times?", answer: "Yes! You can take unlimited PREP AI." },
     { question: "Do I need to sign up?", answer: "Yes, you need to create an account to access personalized interview sessions." },
     { question: "What industries do you support?", answer: "We provide interview questions and mock sessions for various industries including tech, finance, healthcare, and more." },
     { question: "Can I get feedback on my performance?", answer: "Yes! Our AI system analyzes your answers and provides instant feedback on areas of improvement." },

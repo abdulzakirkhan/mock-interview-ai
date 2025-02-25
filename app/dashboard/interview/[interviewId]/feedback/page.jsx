@@ -148,7 +148,7 @@ const Feedback = ({ params }) => {
                   <CheckCircle2 className="h-12 w-12 text-green-600" />
                   <div>
                     <h2 className="text-3xl font-bold text-green-600">Great Job!</h2>
-                    <p className="dark:text-gray-100">You've completed your mock interview.</p>
+                    <p className="dark:text-gray-100">You've completed yourPREP AI.</p>
                   </div>
                 </CardHeader>
                 <CardContent>

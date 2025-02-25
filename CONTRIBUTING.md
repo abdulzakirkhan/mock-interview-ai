@@ -1,6 +1,6 @@
-# Contributing to Full Stack AI Mock Interview App
+# Contributing to Full Stack AIPREP AI App
 
-Thank you for considering contributing to the Full Stack AI Mock Interview App! We appreciate your interest and support. Here are some guidelines to help you get started.
+Thank you for considering contributing to the Full Stack AIPREP AI App! We appreciate your interest and support. Here are some guidelines to help you get started.
 
 ## How to Contribute
 

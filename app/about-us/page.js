@@ -31,12 +31,12 @@ const AboutUsPage = () => {
           className="space-y-4"
         >
           <p className="text-lg dark:text-white">
-            Mock Interview AI is on a mission to revolutionize interview
+           PREP AI is on a mission to revolutionize interview
             preparation by providing personalized, intelligent AI coaching
             tailored to individual career aspirations.
           </p>
           <p className="text-lg dark:text-white">
-            With Mock Interview AI, the goal is to bridge the gap between
+            With PREP AI, the goal is to bridge the gap between
             preparation and success, empowering users to unlock their full
             potential.
           </p>
@@ -53,7 +53,7 @@ const AboutUsPage = () => {
           className="space-y-4"
         >
           <p className="text-lg dark:text-white">
-            The idea for Mock Interview AI was born from firsthand experiences
+            The idea for PREP AI was born from firsthand experiences
             with the challenges of interview preparation. As a solo developer, I
             wanted to create a platform that simplifies the process and builds
             confidence in individuals.
@@ -65,7 +65,7 @@ const AboutUsPage = () => {
           </p>
           <p className="text-lg dark:text-white">
             In collaboration with industry experts, we continue to refine our
-            platform, ensuring that Mock Interview AI remains ahead of the curve
+            platform, ensuring that PREP AI remains ahead of the curve
             in providing practical, actionable feedback to job seekers.
           </p>
         </motion.div>
@@ -81,7 +81,7 @@ const AboutUsPage = () => {
           className="space-y-4"
         >
           <p className="text-lg dark:text-white">
-            Mock Interview AI leverages advanced AI algorithms to generate
+           PREP AI leverages advanced AI algorithms to generate
             dynamic, contextually relevant interview questions based on your
             professional background and goals.
           </p>
@@ -108,7 +108,7 @@ const AboutUsPage = () => {
           className="space-y-4"
         >
           <p className="text-lg dark:text-white">
-            Behind Mock Interview AI is a dedicated team of AI engineers,
+            Behind PREP AI is a dedicated team of AI engineers,
             developers, and career coaches who work tirelessly to improve and
             expand the platform.
           </p>
@@ -204,7 +204,7 @@ const AboutUsPage = () => {
           className="text-center mb-12"
         >
           <h1 className={`text-4xl md:text-5xl font-extrabold ${theme === "dark" ? "text-white" : "text-[#10B981]"}`}>
-            About Mock Interview AI
+            About PREP AI
           </h1>
           <p className="mt-4 max-w-2xl mx-auto text-lg dark:text-gray-50">
             Empowering professionals to ace interviews through intelligent,

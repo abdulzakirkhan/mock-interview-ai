@@ -172,7 +172,7 @@ const StartInterview = ({ params }) => {
           >
             {/* <Bot className="inline-block mr-3   text-[#10B981]" size={48} /> */}
             <Image src={"/artificial-intelligence.png"} className="inline-block mr-3 -mt-2" width={50} height={40} alt="" />
-            Mock Interview AI
+           PREP AI
           </motion.h1>
           <motion.p
             initial={{ opacity: 0, y: 20 }}

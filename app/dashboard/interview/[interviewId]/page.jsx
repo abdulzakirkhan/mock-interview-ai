@@ -113,7 +113,7 @@ function Interview({ params }) {
                 <span>Information</span>
               </h2>
               <h2 className="mt-3">
-                Enable Video Web Cam and Microphone to Start your AI Generated Mock Interview. 
+                Enable Video Web Cam and Microphone to Start your AI GeneratedPREP AI. 
                 It has 5 questions which you can answer and will provide a report based on your answers. 
                 NOTE: We never record your video. Web cam access can be disabled at any time.
               </h2>

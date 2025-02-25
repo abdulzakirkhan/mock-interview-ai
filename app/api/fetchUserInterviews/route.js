@@ -11,7 +11,7 @@ export async function POST(request) {
             throw new Error('Missing userEmail in request');
         }
 
-        // Fetch distinct mock interview IDs where the user has answered questions
+        // Fetch distinctPREP AI IDs where the user has answered questions
         const userInterviews = await db
             .select({
                 mockId: distinct(UserAnswer.mockIdRef)

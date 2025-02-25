@@ -1,8 +1,8 @@
 
-# Full Stack AI Mock Interview App
+# Full Stack AIPREP AI App
 
-**Welcome to the Full Stack AI Mock Interview App!**  
-This project is designed to help developers enhance their skills through AI-driven mock interviews, providing real-time feedback to simulate a realistic interview experience.
+**Welcome to the Full Stack AIPREP AI App!**  
+This project is designed to help developers enhance their skills through AI-drivenPREP AIs, providing real-time feedback to simulate a realistic interview experience.
 
 ## Table of Contents
 - [Overview](#overview)
@@ -15,7 +15,7 @@ This project is designed to help developers enhance their skills through AI-driv
 - [License](#license)
 
 ## Overview
-The Full Stack AI Mock Interview App allows users to practice technical and behavioral interview questions in an interactive environment. The app generates custom questions based on user preferences and delivers instant feedback on answers to help users improve their interview skills.
+The Full Stack AIPREP AI App allows users to practice technical and behavioral interview questions in an interactive environment. The app generates custom questions based on user preferences and delivers instant feedback on answers to help users improve their interview skills.
 
 ## Features
 - **AI-Driven Questions**: Get custom-tailored interview questions based on your profile and feedback.

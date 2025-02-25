@@ -33,7 +33,7 @@ const steps = [
     },
     {
       icon: <Play size={48} className="text-[#10B981]" />,
-      title: "Start the Mock Interview",
+      title: "Start the PREP AI",
       description: "Our AI generates dynamic, contextually relevant questions powered by Gemini. One question at a time keeps you focused and engaged."
     },
     {
@@ -49,7 +49,7 @@ const steps = [
     {
       icon: <Repeat size={48} className="text-[#10B981]" />,
       title: "Continue Practicing",
-      description: "Access your interview history, track progress, and keep refining your skills with unlimited mock interviews and adaptive challenges."
+      description: "Access your interview history, track progress, and keep refining your skills with unlimitedPREP AIs and adaptive challenges."
     }
   ];
 

@@ -27,45 +27,45 @@ const geistMono = localFont({
   fallback: ['Courier New', 'monospace']
 });
 
-const metadata = {
+  const metadata = {
   metadataBase: new URL('https://egeeksglobal.com'),
   title: {
-    default: 'Mock Interview Project - AI-Powered Interview Preparation',
-    template: '%s | Mock Interview AI'
+    default: 'PREP AI Interview Project - AI-Powered Interview Preparation',
+    template: '%s |PREP AI'
   },
-  description: 'Elevate your interview skills with AI-powered mock interviews. Get personalized coaching, real-time feedback, and boost your confidence.',
+  description: 'Elevate your interview skills with AI-poweredPREP AIs. Get personalized coaching, real-time feedback, and boost your confidence.',
   keywords: [
     'AI interview preparation', 
-    'mock interviews', 
+    'PREP AI interviews', 
     'interview coaching', 
     'career development', 
     'job interview help'
   ],
-  authors: [{ name: 'Mock Interview AI Team' }],
-  creator: 'Mock Interview AI',
-  publisher: 'Mock Interview AI',
+  authors: [{ name: 'PREP AI Interview AI Team' }],
+  creator: 'PREP AI Interview AI',
+  publisher: 'PREP AI Interview AI',
   
   openGraph: {
     type: 'website',
     locale: 'en_US',
     url: 'http://mockinterview.com',
-    title: 'Mock Interview AI - AI-Powered Interview Preparation',
-    description: 'Elevate your interview skills with AI-powered mock interviews. Get personalized coaching, real-time feedback, and boost your confidence.',
-    siteName: 'Mock Interview AI',
+    title: 'PREP Interview AI - AI-Powered Interview Preparation',
+    description: 'Elevate your interview skills with AI-poweredPREP AIs. Get personalized coaching, real-time feedback, and boost your confidence.',
+    siteName: 'PREP Interview AI',
     images: [
       {
         url: '/og-image.png',
         width: 1200,
         height: 630,
-        alt: 'Mock Interview AI - Revolutionizing Interview Preparation'
+        alt: 'PREP Interview AI - Revolutionizing Interview Preparation'
       }
     ]
   },
   
   twitter: {
     card: 'summary_large_image',
-    title: 'Mock Interview AI - AI-Powered Interview Preparation',
-    description: 'Elevate your interview skills with AI-powered mock interviews. Get personalized coaching, real-time feedback, and boost your confidence.',
+    title: 'PREP AI Interview - AI-Powered Interview Preparation',
+    description: 'Elevate your interview skills with AI-poweredPREP AIs. Get personalized coaching, real-time feedback, and boost your confidence.',
     creator: '@Name',
     images: ['/twitter-image.png']
   },

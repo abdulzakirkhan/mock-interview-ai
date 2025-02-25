@@ -99,7 +99,7 @@ const QuestionsSection = ({ mockInterviewQuestion, activeQuestionIndex }) => {
             <strong>Note:</strong>
           </h2>
           <h2 className="text-sm my-2">
-            Enable Video Web Cam and Microphone to start your AI-Generated Mock Interview. It has 5 questions, and at the end, you will receive a report based on your answers.
+            Enable Video Web Cam and Microphone to start your AI-GeneratedPREP AI. It has 5 questions, and at the end, you will receive a report based on your answers.
             <br />
             <strong>NOTE:</strong> We never record your video. Webcam access can be disabled at any time.
           </h2>

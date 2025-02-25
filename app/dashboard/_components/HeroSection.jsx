@@ -43,7 +43,7 @@ export default function HeroSection() {
     </h1>
     
     <p className={`mt-4 text-lg leading-8 ${theme === "dark" ? "text-gray-300" :"text-[#10B981] "} sm:text-xl`}>
-      AI-driven mock interviews with real-time feedback to help you land your dream job.
+      AI-drivenPREP AIs with real-time feedback to help you land your dream job.
     </p>
 
     {/* Key Benefits */}

@@ -30,7 +30,7 @@ function Dashboard() {
   const [statsCards, setStatsCards] = useState([
     {
       icon: <ListChecks size={32} className="text-[#10B981]" />,
-      title: "Total Interview Question",
+      title: "Total Interviews",
       value: interviews.length || "0",
     },
     {
